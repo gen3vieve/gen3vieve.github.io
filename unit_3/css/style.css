@@ -1,0 +1,31 @@
+#slogan {
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+body {
+	background: #FFF7ED;
+	font-family: Lato;
+}
+
+p, ul {
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+h1 {
+	text-align: center;
+	color: #5B9BBF;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+hr {
+	width: auto;
+	margin-left: 300px;
+	margin-right: 300px;
+}
