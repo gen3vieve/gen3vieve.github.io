@@ -9,11 +9,6 @@ body {
 	font-family: Lato;
 }
 
-p, ul {
-	margin-left: 300px;
-	margin-right: 300px;
-}
-
 h1 {
 	text-align: center;
 	color: #5B9BBF;
@@ -24,8 +19,16 @@ img {
 	margin: auto;
 }
 
-hr {
-	width: auto;
-	margin-left: 300px;
-	margin-right: 300px;
+
+.wrapper {
+	width: 600px;
+	margin: auto;
+}
+
+a:link {
+	color: #5B9BBF;
+}
+
+a:visited {
+	color: #8BC9B9;
 }
